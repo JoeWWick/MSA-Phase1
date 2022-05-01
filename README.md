@@ -66,8 +66,8 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [X] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
   - [X] [1. Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/1.%20Git%20workshop)
   - [X] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
-- [ ] Week 2 (22 APR - 28 APR)
-  - [ ] First half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the first **6** modules)
+- [X] Week 2 (22 APR - 28 APR)
+  - [X] First half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the first **6** modules)
 - [ ] Week 3 (29 APR - 5 MAY)
   - [ ] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
   - [ ] [2. Python Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/2.%20Python%20workshop)
@@ -104,11 +104,11 @@ As you go through and do these modules, you'll find that you need quite a few to
 - [ ] Required Tools
   - [ ] [Node.JS](https://nodejs.org/en/)
   - [X] [Git](https://git-scm.com/)
-  - [ ] [Python](https://www.python.org/downloads/)
+  - [X] [Python](https://www.python.org/downloads/)
   - [ ] [React](https://reactjs.org/docs/create-a-new-react-app.html)
   - [ ] [.NET](https://dotnet.microsoft.com/en-us/download)
 - [ ] Development Environments
-  - [ ] [VS Code](https://code.visualstudio.com/) a lightweight IDE suitable for developing any language, with a bit of fine-tuning (I'd recommend googling on how to set it up for use)
+  - [X] [VS Code](https://code.visualstudio.com/) a lightweight IDE suitable for developing any language, with a bit of fine-tuning (I'd recommend googling on how to set it up for use)
   - [ ] [JetBrains Rider](https://www.jetbrains.com/rider/) is an alternative IDE to Visual Studio (and, IMO, runs about a million times faster)
     - [ ] [Free License](https://www.jetbrains.com/community/education/#students) for students
   - [X] [Visual Studio](https://visualstudio.microsoft.com/vs/community/) the c# IDE
