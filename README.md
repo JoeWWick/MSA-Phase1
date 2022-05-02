@@ -40,11 +40,11 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 
 ### APIs
 
-- [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/) are an implementation of API for accessing information and providing a service without needing to implement a UI. These are useful as they allow developers to perform operations that are quite complex without developing the solution themselves, thus saving time.
+- [X] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/) are an implementation of API for accessing information and providing a service without needing to implement a UI. These are useful as they allow developers to perform operations that are quite complex without developing the solution themselves, thus saving time.
 
 ### Databases
 
-- [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/) are a way to represent stored data. This can be used in combination with an API to create, read, update or delete entries in the database. For example, if you have a website where users are prompted to sign up with user credentials, that user's sign up information will likely be stored using a Relational Database.
+- [X] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/) are a way to represent stored data. This can be used in combination with an API to create, read, update or delete entries in the database. For example, if you have a website where users are prompted to sign up with user credentials, that user's sign up information will likely be stored using a Relational Database.
 
 ### AI/Machine Learning
 
@@ -72,9 +72,9 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [X] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
   - [X] [2. Python Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/2.%20Python%20workshop)
 - [ ] Week 4 (6 MAY - 12 MAY)
-  - [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
+  - [X] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
   - [ ] [3. RESTful-API workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/3.%20RESTful-API%20workshop)
-  - [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
+  - [X] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
   - [ ] [4. Relational DB workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/4.%20Relational%20DB%20workshop)
 - [ ] Week 5 (13 MAY - 19 MAY)
   - [ ] First half of [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the first **4** modules)
@@ -106,7 +106,7 @@ As you go through and do these modules, you'll find that you need quite a few to
   - [X] [Git](https://git-scm.com/)
   - [X] [Python](https://www.python.org/downloads/)
   - [ ] [React](https://reactjs.org/docs/create-a-new-react-app.html)
-  - [ ] [.NET](https://dotnet.microsoft.com/en-us/download)
+  - [X] [.NET](https://dotnet.microsoft.com/en-us/download)
 - [ ] Development Environments
   - [X] [VS Code](https://code.visualstudio.com/) a lightweight IDE suitable for developing any language, with a bit of fine-tuning (I'd recommend googling on how to set it up for use)
   - [ ] [JetBrains Rider](https://www.jetbrains.com/rider/) is an alternative IDE to Visual Studio (and, IMO, runs about a million times faster)
