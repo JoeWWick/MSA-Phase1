@@ -1,3 +1,7 @@
 const sendAlert = () => {
-    alert('Why Hello There');
+    if(document.getElementById("general_kenobi").hidden == false){
+        document.getElementById("general_kenobi").hidden = true;
+    } else {
+        document.getElementById("general_kenobi").hidden = false;
+    }
 }
